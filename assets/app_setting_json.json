@@ -1,0 +1,55 @@
+{
+  "colors": {
+    "light_mode": {
+      "app_bar": {
+        "appbarBackground": "#FFFFFF"
+      },
+      "primary_and_scaffold": {
+        "primaryColor": "#9B0F18",
+        "secondaryColor": "#333949",
+        "scaffoldBackgroundColor": "#FFFFFF"
+      },
+      "divider": {
+        "dividerColor": "#BCBCBC"
+      },
+      "theme": {
+        "whiteColor": "#FFFFFF",
+        "greyBlackColor": "#83807F",
+        "greyLightColor": "#ECECEC",
+        "greyColor": "#BCBCBC",
+        "redColor": "#F83434",
+        "greenColor": "#4CAF50",
+        "blackColor": "#000000",
+        "yellowColor": "#FFC107",
+        "blueColor": "#0000FF"
+      }
+    },
+    "dark_mode": {
+      "app_bar": {
+        "appbarBackground": "#13294B"
+      },
+      "primary_and_scaffold": {
+        "primaryColor": "#9B0F18",
+        "secondaryColor": "#333949",
+        "scaffoldBackgroundColor": "#FFFFFF"
+      },
+      "divider": {
+        "dividerColor": "#C7C7C7"
+      },
+      "theme": {
+        "whiteColor": "#FFFFFF",
+        "greyBlackColor": "#83807F",
+        "greyLightColor": "#ECECEC",
+        "greyColor": "#BCBCBC",
+        "redColor": "#F83434",
+        "greenColor": "#4CAF50",
+        "blackColor": "#000000",
+        "yellowColor": "#FFC107",
+        "blueColor": "#0000FF"
+      }
+    }
+  }
+}
+
+
+
