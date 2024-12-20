@@ -1,4 +1,0 @@
-#Fri Dec 20 19:12:38 EET 2024
-base.0=D\:\\Hr Link Projects\\weather_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
